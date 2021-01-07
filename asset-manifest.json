@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/protogenesis.github.io/react-tutorial/static/css/main.580f2385.chunk.css",
+    "main.js": "/protogenesis.github.io/react-tutorial/static/js/main.3e4257e5.chunk.js",
+    "main.js.map": "/protogenesis.github.io/react-tutorial/static/js/main.3e4257e5.chunk.js.map",
+    "runtime-main.js": "/protogenesis.github.io/react-tutorial/static/js/runtime-main.7fcb262f.js",
+    "runtime-main.js.map": "/protogenesis.github.io/react-tutorial/static/js/runtime-main.7fcb262f.js.map",
+    "static/js/2.e410b83a.chunk.js": "/protogenesis.github.io/react-tutorial/static/js/2.e410b83a.chunk.js",
+    "static/js/2.e410b83a.chunk.js.map": "/protogenesis.github.io/react-tutorial/static/js/2.e410b83a.chunk.js.map",
+    "index.html": "/protogenesis.github.io/react-tutorial/index.html",
+    "static/css/main.580f2385.chunk.css.map": "/protogenesis.github.io/react-tutorial/static/css/main.580f2385.chunk.css.map",
+    "static/js/2.e410b83a.chunk.js.LICENSE.txt": "/protogenesis.github.io/react-tutorial/static/js/2.e410b83a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fcb262f.js",
+    "static/js/2.e410b83a.chunk.js",
+    "static/css/main.580f2385.chunk.css",
+    "static/js/main.3e4257e5.chunk.js"
+  ]
+}
